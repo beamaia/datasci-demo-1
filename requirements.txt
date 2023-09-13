@@ -1,0 +1,10 @@
+pytest
+pytest-cov
+black
+pylint
+nbval
+
+click
+ipython
+jupyter
+pandas
